@@ -30,4 +30,4 @@ The Student Management System is a JavaScript-based application that allows you 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   [git clone https://github.com/yourusername/student-management-system.git](https://github.com/dev-hmyousuf/Student-Result-Management-System.git)
